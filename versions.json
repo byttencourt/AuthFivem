@@ -3,5 +3,10 @@
         "script":"spawn",
         "version":"1.0.0",
         "ip":"2a09:bac1:1100:1940::61:28b"
+    },
+    {
+        "script":"garages",
+        "version":"1.0.0",
+        "ip":"2a09:bac1:1100:1940::61:28b"
     }
 ]
