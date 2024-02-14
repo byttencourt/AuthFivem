@@ -1,12 +1,10 @@
 [   
     {
         "script":"spawn",
-        "version":"1.0.0",
         "ip":"104.28.233.35"
     },
     {
         "script":"garages",
-        "version":"1.0.0",
         "ip":"104.28.233.35"
     }
 ]
