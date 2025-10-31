@@ -1,16 +1,21 @@
 {
   "mods": {
-    "TFS": {
-      "allowed_keys": ["ABC123-CLIENTE-NINO", "DEF456-TESTE"],
-      "allowed_ips": ["186.192.219.235", "200.100.50.10"],
+    "NINOmods TFS 156": {
+      "allowed_ips": ["177.12.45.33", "186.192.219.235"],
+      "allowed_keys": ["NINO-1234-5678-ABCD", "NINO-9999-8888-ZYXW"],
       "latest_version": "1.0",
-      "status": "active"
+      "status": "active",
+      "notes": "Autorizado para uso pessoal."
     },
-    "outro_mod": {
-      "allowed_keys": ["XYZ789"],
-      "allowed_ips": ["201.10.20.0/24"],
-      "latest_version": "2.0",
-      "status": "disabled"
+    "NINOmods VolvoFH 1.2": {
+      "allowed_ips": ["177.12.45.33"],
+      "allowed_keys": ["NINO-5555-6666-7777"],
+      "latest_version": "1.2",
+      "status": "active",
+      "notes": "Somente para demonstração."
     }
-  }
+  },
+  "api_version": "1.0.0",
+  "last_updated": "2025-10-31T00:00:00Z"
 }
+
