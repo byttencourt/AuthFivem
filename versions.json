@@ -1,1 +1,16 @@
-{"104.28.233.30":true}
+{
+  "mods": {
+    "nino_truck_red_v1": {
+      "allowed_keys": ["ABC123-CLIENTE-NINO", "DEF456-TESTE"],
+      "allowed_ips": ["187.54.32.0/24", "200.100.50.10"],
+      "latest_version": "1.2.4",
+      "status": "active"
+    },
+    "outro_mod": {
+      "allowed_keys": ["XYZ789"],
+      "allowed_ips": ["201.10.20.0/24"],
+      "latest_version": "2.0",
+      "status": "disabled"
+    }
+  }
+}
