@@ -1,6 +1,6 @@
 {
   "mods": {
-    "TFS 156": {
+    "TFS_156": {
       "allowed_keys": ["NINO-1234-5678-ABCD"],
       "allowed_ips": ["186.192.219.235", "200.100.50.10"],
       "hwid_binding": { "NINO-1234-5678-ABCD": "AUTO" }, 
