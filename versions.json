@@ -1,21 +1,19 @@
 {
   "mods": {
-    "NINOmods TFS 156": {
-      "allowed_ips": ["177.12.45.33", "186.192.219.235"],
-      "allowed_keys": ["NINO-1234-5678-ABCD", "NINO-9999-8888-ZYXW"],
-      "latest_version": "1.0",
+    "TFS 156": {
+      "allowed_keys": ["NINO-1234-5678-ABCD"],
+      "allowed_ips": ["186.192.219.235", "200.100.50.10"],
+      "hwid_binding": { "NINO-1234-5678-ABCD": "AUTO" }, 
       "status": "active",
-      "notes": "Autorizado para uso pessoal."
+      "notes": "Truckforspeed nino"
     },
-    "NINOmods VolvoFH 1.2": {
-      "allowed_ips": ["177.12.45.33"],
+    "VolvoFH 1.2": {
       "allowed_keys": ["NINO-5555-6666-7777"],
-      "latest_version": "1.2",
-      "status": "active",
-      "notes": "Somente para demonstração."
+      "allowed_ips": [],
+      "status": "active"
     }
   },
   "api_version": "1.0.0",
-  "last_updated": "2025-10-31T00:00:00Z"
+  "last_updated": "2025-10-31T12:00:00Z"
 }
 
